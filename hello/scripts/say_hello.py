@@ -2,7 +2,7 @@
 from colorama import Fore
 
 def main():
-    print(f"{Fore.RED}Hello!{Fore.RESET}")
+    print(f"{Fore.RED}Fomin-noob!{Fore.RESET}")
 
 
 if __name__ == '__main__':
